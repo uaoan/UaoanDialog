@@ -131,3 +131,11 @@ new UaoanDialog().Dialog(SetUpActivity.this)
 
 
 ```
+
+
+![普通弹窗](c91eeae66b32441b3b5d893d0e93773.jpg) 
+![加载弹窗](80afa12c633f5de5f6a507548110b66.jpg) 
+![菜单弹窗](fdef89cc306b569c7a26a231ba7ade0.jpg) 
+![菜单弹窗2](b6a7ee6b14301c5b41c5b3758b45e44.jpg) 
+
+
